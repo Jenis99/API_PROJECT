@@ -1,2 +1,2 @@
 # api_project
- CRUD opration using model through APi.
+ Complete CRUD opration using model through API.
