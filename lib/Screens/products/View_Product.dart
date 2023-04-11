@@ -50,7 +50,6 @@ class _View_ProductState extends State<View_Product> {
     setState(() {
       allproducts=getproduct_data();
     });
-    
   }
   @override
   Widget build(BuildContext context) {
@@ -114,8 +113,6 @@ class _View_ProductState extends State<View_Product> {
                                         });
                                       }
                                      }
-                                     
-                                     
                                     }, child: Text("Yes")),
                                     ElevatedButton(
                                       onPressed: (){
